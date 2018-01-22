@@ -17,3 +17,10 @@ expected features are:
 - reward system will be at 100% (no additional rewards)
 - and maybe (just maybe) a revenue share system for stack holders! or active users. (it is just a suggested feature, will need improvements)
 - more coming...
+
+## Instulling
+You can run this project by nginx or apache (or ampps in windows)
+also, you will need to install mysql and npm (and npm install pm2) for running some backend codes!
+
+## Contributions
+Any contributions (suggestions and developments) are welcome!
