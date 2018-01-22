@@ -18,7 +18,7 @@ expected features are:
 - and maybe (just maybe) a revenue share system for stack holders! or active users. (it is just a suggested feature, will need improvements)
 - more coming...
 
-## Instulling
+## Installing
 You can run this project by nginx or apache (or ampps in windows)
 also, you will need to install mysql and npm (and npm install pm2) for running some backend codes!
 
