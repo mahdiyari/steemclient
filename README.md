@@ -24,3 +24,6 @@ also, you will need to install mysql and npm (and npm install pm2) for running s
 
 ## Contributions
 Any contributions (suggestions and developments) are welcome!
+
+## License
+GNU General Public License v3.0
